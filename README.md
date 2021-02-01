@@ -1,5 +1,6 @@
 # AR Kumparan
-<img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/preview.jpg" width="200">
+<img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/kumparan-preview.gif" width="450">
+
 For this Project, I used AR.js and Aframe.js library, Image Descriptor, and Voxel.
 
 https://github.com/MaksumRifai/kumparan (Repo) | https://maksumrifai.github.io/kumparan (Live)
@@ -11,8 +12,7 @@ Or you can use assets logo from disclaimer below.
 AR.js is a lightweight library for Augmented Reality on the Web, coming with features like Image Tracking, Location based AR and Marker tracking.
 
 ## Aframe.js
-Web framework for building virtual reality experiences. I created a VR project with aframe if you want to read: 
-https://github.com/MaksumRifai/digitaltalent (Repo) | https://digitaltalent.netlify.app (Live)
+Web framework for building virtual reality experiences.
 
 ### Import the library
 
@@ -109,7 +109,7 @@ Use green button above and click "Download Zip" or simply click [here](https://g
 In case you want to use your own models, simply replace the [.obj .mtl .png](https://en.m.wikipedia.org/wiki/Wavefront_.obj_file) files with yours. Don't forget to export your MagicaVoxel or Blender project with compatible format.
 And edit this repo, you only need to replace URL/File name with yours, and the descripted files (fset, iset, fset3) you created with your own source image. For better and faster development you can use [Spck Code/Git Editor](http://play.google.com/store/apps/details?id=io.spck) for Android, I mainly use this Way.
 
-a href="https://github.com/MaksumRifai/360vr/blob/master/360vr.gif"><img src="https://raw.githubusercontent.com/MaksumRifai/360vr/master/360vr.gif" width="450"></a>
+<a href="https://github.com/MaksumRifai/360vr/blob/master/360vr.gif"><img src="https://raw.githubusercontent.com/MaksumRifai/360vr/master/360vr.gif" width="450"></a>
 <br/><br/>
 # References & Resources
 
@@ -154,5 +154,4 @@ This Logo may copyrighted, but object assets (mtl,obj,png) is created and owned 
 ### Support Me
 <a href="https://www.paypal.me/maksumrifai"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRU16oC9ndfwmD5a14Df0X7B96ummOHmQGsg&usqp=CAU" width="200"></a> <a href="https://invoice.xendit.co/donation/Dukungan"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROR5VQJr0XTxLh-kmhGyyyQA0i8ISLTxQRcg&usqp=CAU" width="200"></a>
 
-
-
+<a href="https://github.com/desainerhub"><img src="https://raw.githubusercontent.com/MaksumRifai/360vr/master/learn.png" width="450"></a>
