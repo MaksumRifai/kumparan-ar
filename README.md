@@ -1,8 +1,8 @@
 # Voxel AR
-<img src="https://raw.githubusercontent.com/MaksumRifai/voxelar/master/preview.jpg" width="200">
+<img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/preview.jpg" width="200">
 For this Project, I used AR.js and Aframe.js library, Image Descriptor, and Voxel.
 
-https://github.com/MaksumRifai/voxelar (Repo) | https://maksumrifai.github.io/voxelar (Live)
+https://github.com/MaksumRifai/kumparan (Repo) | https://maksumrifai.github.io/kumparan (Live)
 
 With that cam ready on your phone, Scan BekasiDev Sticker or open logo from bekasidev.org with your Laptop or PC.
 
@@ -35,7 +35,7 @@ It comes in two versions: [the Web version](https://carnaux.github.io/NFT-Marker
 If you want to understand the creation of markers in more depth, check out the NFT Marker Creator [wiki](https://github.com/Carnaux/NFT-Marker-Creator/wiki/Creating-good-markers). It explains also why certain images work way better than others. An important factor is the DPI of the image: a good dpi (300 or more) will give a very good stabilization, while low DPI (like 72) will require the user to stay very still and close to the image, otherwise tracking will lag.
 
 ### Create Image Descriptors:
-<img src="https://raw.githubusercontent.com/MaksumRifai/voxelar/master/photo.jpg" width="150">
+<img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/photo.jpg" width="150">
 We create descriptor with this picture (photo.jpg) by uploading to NFT creator web version above then return 3 files to use:
 
 .fset, .fset3, .iset. Each of them will have the same prefix before the file extension. That one will be the Image Descriptor name that you will use on the AR.js web app. For example: with files photo.fset, photo.fset3 and photo.iset, your Image Descriptors name will be photo.
@@ -57,7 +57,7 @@ You can download and use 3D models or object from anywhere or create your own wi
     <!-- we use cors proxy to avoid cross-origin problems -->
     <a-nft
       type="nft"
-      url="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/MaksumRifai/voxelar/master/photo"
+      url="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/MaksumRifai/kumparan/master/photo"
       smooth="true"
       smoothCount="10"
       smoothTolerance=".01"
@@ -68,8 +68,8 @@ You can download and use 3D models or object from anywhere or create your own wi
     </a-nft>
     <!--Load assets to use by nft entity above-->
        <a-assets>
-        <a-asset-item id="tree-obj" src="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/MaksumRifai/voxelar/master/bekdev.obj"></a-asset-item>
-        <a-asset-item id="tree-mtl" src="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/MaksumRifai/voxelar/master/bekdev.mtl"></a-asset-item>
+        <a-asset-item id="tree-obj" src="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/MaksumRifai/kumparan/master/bekdev.obj"></a-asset-item>
+        <a-asset-item id="tree-mtl" src="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/MaksumRifai/kumparan/master/bekdev.mtl"></a-asset-item>
        </a-assets>
     <!--End of assets-->
     <!-- static camera that moves according to the device movemenents -->

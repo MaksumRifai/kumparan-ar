@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Voxel AR</title>
+  <title>Kumparan AR - Maksum Rifai</title>
 
   <!-- Import Aframe.js JS & AR.js -->
 <script src="https://cdn.jsdelivr.net/gh/aframevr/aframe@1c2407b26c61958baa93967b5412487cd94b290b/dist/aframe-master.min.js"></script>
@@ -15,7 +15,7 @@
   <body style="margin : 0px; overflow: hidden;">
   <!-- minimal loader shown until image descriptors are loaded -->
   <div class="arjs-loader">
-    <div>Loading, please wait...</div>
+    <div>Loading, silahkan pindai gambar/logo kumparan saat kamera siap</div>
   </div>
   <!-- end of loader-->
   <!-- Main Scene -->
@@ -28,7 +28,7 @@
     <!-- we use cors proxy to avoid cross-origin problems -->
     <a-nft
       type="nft"
-      url="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/MaksumRifai/voxelar/master/photo"
+      url="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/MaksumRifai/kumparan/master/photo2"
       smooth="true"
       smoothCount="10"
       smoothTolerance=".01"
@@ -39,8 +39,8 @@
     </a-nft>
     <!--Load assets to use by nft entity above-->
        <a-assets>
-        <a-asset-item id="tree-obj" src="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/MaksumRifai/voxelar/master/bekdev.obj"></a-asset-item>
-        <a-asset-item id="tree-mtl" src="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/MaksumRifai/voxelar/master/bekdev.mtl"></a-asset-item>
+        <a-asset-item id="tree-obj" src="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/MaksumRifai/kumparan/master/kumparan.obj"></a-asset-item>
+        <a-asset-item id="tree-mtl" src="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/MaksumRifai/kumparan/master/kumparan.mtl"></a-asset-item>
        </a-assets>
     <!--End of assets-->
     <!-- static camera that moves according to the device movemenents -->
