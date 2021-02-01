@@ -9,7 +9,7 @@ Open Live Demo with Chrome Mobile Browser or AR/VR/XR Devices, When that cam rea
 
 Note for Desktop Browser you need latest Chrome or Edge that suported and enabled for WebVR Experiences, and also good desktop camera (Webcam), Recommended use Mobile Browser for Best Experience.
 
-#Libraries
+# Libraries
 
 ## AR.js
 AR.js is a lightweight library for Augmented Reality on the Web, coming with features like Image Tracking, Location based AR and Marker tracking.
