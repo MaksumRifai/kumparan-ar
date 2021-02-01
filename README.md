@@ -106,8 +106,10 @@ $ git clone https://github.com/MaksumRifai/kumparan.git
 ## Download
 Use green button above and click "Download Zip" or simply click [here](https://github.com/MaksumRifai/kumparan/archive/master.zip)
 ## Customizing
-In case you want to use your own models, simply replace the [.obj .mtl .png](https://en.m.wikipedia.org/wiki/Wavefront_.obj_file) files with yours. Don't forget to export your MagicaVoxel or Blender project with right format.
-And edit this repo, you only need to replace URL/File name with yours.
+In case you want to use your own models, simply replace the [.obj .mtl .png](https://en.m.wikipedia.org/wiki/Wavefront_.obj_file) files with yours. Don't forget to export your MagicaVoxel or Blender project with compatible format.
+And edit this repo, you only need to replace URL/File name with yours, and the descripted files (fset, iset, fset3) you created with your own source image. For better and faster development you can use [Spck Code/Git Editor](http://play.google.com/store/apps/details?id=io.spck) for Android, I mainly use this Way.
+
+a href="https://github.com/MaksumRifai/360vr/blob/master/360vr.gif"><img src="https://raw.githubusercontent.com/MaksumRifai/360vr/master/360vr.gif" width="450"></a>
 <br/><br/>
 # References & Resources
 
