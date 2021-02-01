@@ -43,7 +43,7 @@ Each of them will have the same prefix before the file extension. That one will 
 ### Create Object
 You can download and use 3D models or object from anywhere or create your own with Blender. For this repo, I created my own model based on [Kumparan](https://kumparan.com) Logo with MagicaVoxel.
 
-<img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/ss-mv.jgp" width="500">
+<img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/ss-mv.jpg" width="500">
 
 You can watch tutorial on my youtube channel here for DTS Kominfo Logo:
 
@@ -89,14 +89,14 @@ The only custom component here is the a-nft, the Image Tracking HTML anchor, you
 [https://github.com/MaksumRifai/voxelar](https://github.com/MaksumRifai/voxelar) | [https://github.com/MaksumRifai/360vr](https://github.com/MaksumRifai/360vr) | [https://github.com/MaksumRifai/digitaltalent](https://github.com/MaksumRifai/digitaltalent)
 
 <img src="https://raw.githubusercontent.com/MaksumRifai/voxelar/master/preview.jpg" width="200">
-<img src="https://raw.githubusercontent.com/MaksumRifai/360vr/master/preview-360-2.jpg" width="200">
+<img src="https://raw.githubusercontent.com/MaksumRifai/360vr/master/preview-360-2.png" width="200">
 <img src="https://raw.githubusercontent.com/MaksumRifai/digitaltalent/master/ss-dts-1.jpg" width="200">
 
 ## How to use this template
 ### Clonning
 Run the following command to clone this template to your local directory:
 ```
-$ git clone https://github.com/MaksumRifai/360vr.git
+$ git clone https://github.com/MaksumRifai/kumparan.git
 
 ```
 ## Download
@@ -140,6 +140,8 @@ A free lightweight GPU-based voxel art editor and interactive path tracing rende
 All Assets from Kumparan (U Logo/Icon/Graphic) and company/entity names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
 
 (kumparan-logo.svg) I used for extract information (Hex Color) for create object with magicavoxel, and stored on palete (kumparan.png). Refer to [kumparan.com](https://kumparan.com) for more Information.
+
+<img src="https://raw.githubusercontent.com/MaksumRifai/voxelar/master/kumparan-logo.svg" width="200">
 
 This Logo may copyrighted, but object assets (mtl,obj,png) is created and owned by Maksum Rifai with MagicaVoxel for educational and non-commercial purpose, please use it wisely.
 
