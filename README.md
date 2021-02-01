@@ -5,8 +5,7 @@ For this Project, I used AR.js and Aframe.js library, Image Descriptor, and Voxe
 
 https://github.com/MaksumRifai/kumparan (Repo) | https://maksumrifai.github.io/kumparan (Live)
 
-With that cam ready on your phone, Scan Kumparan Sticker/Umbrella or open logo from kumparan.com with your Laptop or PC.
-Or you can use assets logo from disclaimer below.
+Open Live Demo with Chrome Mobile Browser or AR/VR/XR Devices, When that cam ready, Scan Kumparan Sticker/Umbrella or Logo from kumparan.com Or you can use assets logo from disclaimer below. Note for Desktop Browser you need latest Chrome or Edge that suported and enabled for WebVR Experiences, and also good desktop camera (Webcam).
 
 ## AR.js
 AR.js is a lightweight library for Augmented Reality on the Web, coming with features like Image Tracking, Location based AR and Marker tracking.
