@@ -5,7 +5,7 @@ For this Project, I used AR.js and Aframe.js library, Image Descriptor, and Magi
 
 https://github.com/MaksumRifai/kumparan (Repo) | https://maksumrifai.github.io/kumparan (Live)
 
-Open Live Demo with Chrome Mobile Browser or AR/VR/XR Devices, When that cam ready, Scan/Hover Kumparan Sticker/Umbrella (Real things) or Logo from kumparan.com, you can also use assets logo from disclaimer and image/photo from descriptors section below.
+Open Live Demo with Chrome Mobile Browser or AR/VR/XR Devices, When cam ready, Scan/Hover Kumparan Sticker/Umbrella (Real things) or Logo from kumparan.com, you can also use assets logo from disclaimer and image/photo from descriptors section below.
 
 Note for Desktop Browser you need latest Chrome or Edge that suported and enabled for WebVR Experiences, and also good desktop camera (Webcam), Recommended use Mobile Browser for Best Experience.
 
