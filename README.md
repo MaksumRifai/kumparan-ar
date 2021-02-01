@@ -37,12 +37,12 @@ If you want to understand the creation of markers in more depth, check out the N
 
 ### Create Image Descriptors:
 <img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/photo2.jpg" width="150">
-We create descriptor with this picture (photo2.jpg) by uploading to NFT creator web version above then return 3 files to use:
-
-.fset, .fset3, .iset. Each of them will have the same prefix before the file extension. That one will be the Image Descriptor name that you will use on the AR.js web app. For example: with files photo2.fset, photo2.fset3 and photo2.iset, your Image Descriptors name will be photo2.
+We create descriptor with this picture (photo2.jpg) by uploading to NFT creator web version above then return 3 files to use: .fset, .fset3, .iset.
+Each of them will have the same prefix before the file extension. That one will be the Image Descriptor name that you will use on the AR.js web app. For example: with files photo2.fset, photo2.fset3 and photo2.iset, your Image Descriptors name will be photo2.
 
 ### Create Object
 You can download and use 3D models or object from anywhere or create your own with Blender. For this repo, I created my own model based on [Kumparan](https://kumparan.com) Logo with MagicaVoxel.
+
 <img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/ss-mv.jgp" width="500">
 
 You can watch tutorial on my youtube channel here for DTS Kominfo Logo:
@@ -84,7 +84,13 @@ You can watch tutorial on my youtube channel here for DTS Kominfo Logo:
 
 You can refer to [A-Frame docs](https://aframe.io/docs/1.0.0/introduction/) to know everything about content and customization. You can add geometries, 3D models, videos, images. And you can customize their position, scale, rotation and so on.
 
-The only custom component here is the a-nft, the Image Tracking HTML anchor.
+The only custom component here is the a-nft, the Image Tracking HTML anchor, you may read my other projects for references:
+
+[https://github.com/MaksumRifai/voxelar](https://github.com/MaksumRifai/voxelar) | [https://github.com/MaksumRifai/360vr](https://github.com/MaksumRifai/360vr) | [https://github.com/MaksumRifai/digitaltalent](https://github.com/MaksumRifai/digitaltalent)
+
+<img src="https://raw.githubusercontent.com/MaksumRifai/voxelar/master/preview.jpg" width="200">
+<img src="https://raw.githubusercontent.com/MaksumRifai/360vr/master/preview-360-2.jpg" width="200">
+<img src="https://raw.githubusercontent.com/MaksumRifai/digitaltalent/master/ss-dts-1.jpg" width="200">
 
 ## How to use this template
 ### Clonning
@@ -132,8 +138,10 @@ A free lightweight GPU-based voxel art editor and interactive path tracing rende
 ## Copyright Notice & Disclaimer
 
 All Assets from Kumparan (U Logo/Icon/Graphic) and company/entity names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
+
 (kumparan-logo.svg) I used for extract information (Hex Color) for create object with magicavoxel, and stored on palete (kumparan.png). Refer to [kumparan.com](https://kumparan.com) for more Information.
-This Logo may copyrighted, but object assets (mtl,obj) is created by Maksum Rifai for educational and non-commercial purpose.
+
+This Logo may copyrighted, but object assets (mtl,obj,png) is created and owned by Maksum Rifai with MagicaVoxel for educational and non-commercial purpose, please use it wisely.
 
 ### Support Me
 <a href="https://www.paypal.me/maksumrifai"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRU16oC9ndfwmD5a14Df0X7B96ummOHmQGsg&usqp=CAU" width="200"></a> <a href="https://invoice.xendit.co/donation/Dukungan"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROR5VQJr0XTxLh-kmhGyyyQA0i8ISLTxQRcg&usqp=CAU" width="200"></a>
