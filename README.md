@@ -69,7 +69,7 @@ You can watch tutorial on my youtube channel here for DTS Kominfo Logo:
     <!-- we use cors proxy to avoid cross-origin problems -->
     <a-nft
       type="nft"
-      url="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/MaksumRifai/kumparan/master/photo"
+      url="https://arjs-cors-proxy.herokuapp.com/https://raw.githubusercontent.com/MaksumRifai/kumparan/master/photo"
       smooth="true"
       smoothCount="10"
       smoothTolerance=".01"
@@ -80,8 +80,8 @@ You can watch tutorial on my youtube channel here for DTS Kominfo Logo:
     </a-nft>
     <!--Load assets to use by nft entity above-->
        <a-assets>
-        <a-asset-item id="kumparan-u-obj" src="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/MaksumRifai/kumparan/master/kumparan.obj"></a-asset-item>
-        <a-asset-item id="kumparan-u-mtl" src="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/MaksumRifai/kumparan/master/kumparan.mtl"></a-asset-item>
+        <a-asset-item id="kumparan-u-obj" src="https://arjs-cors-proxy.herokuapp.com/https://raw.githubusercontent.com/MaksumRifai/kumparan/master/kumparan.obj"></a-asset-item>
+        <a-asset-item id="kumparan-u-mtl" src="https://arjs-cors-proxy.herokuapp.com/https://raw.githubusercontent.com/MaksumRifai/kumparan/master/kumparan.mtl"></a-asset-item>
        </a-assets>
     <!--End of assets-->
     <!-- static camera that moves according to the device movemenents -->
