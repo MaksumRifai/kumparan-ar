@@ -1,15 +1,15 @@
 # AR Kumparan
 <img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/kumparan-preview.gif" width="450">
 
-For this Project, I used AR.js and Aframe.js library, Image Descriptor, and Voxel.
+For this Project, I used AR.js and Aframe.js library, Image Descriptor, and MagicaVoxel.
 
 https://github.com/MaksumRifai/kumparan (Repo) | https://maksumrifai.github.io/kumparan (Live)
 
-Open Live Demo with Chrome Mobile Browser or AR/VR/XR Devices, When that cam ready, Scan Kumparan Sticker/Umbrella or Logo from kumparan.com Or you can use assets logo from disclaimer below.
+Open Live Demo with Chrome Mobile Browser or AR/VR/XR Devices, When that cam ready, Scan/Hover Kumparan Sticker/Umbrella (Real things) or Logo from kumparan.com, you can also use assets logo from disclaimer and image/photo from descriptors section below.
 
-Note for Desktop Browser you need latest Chrome or Edge that suported and enabled for WebVR Experiences, and also good desktop camera (Webcam), Recommended use Mobile Browser.
+Note for Desktop Browser you need latest Chrome or Edge that suported and enabled for WebVR Experiences, and also good desktop camera (Webcam), Recommended use Mobile Browser for Best Experience.
 
-# Libraries
+#Libraries
 
 ## AR.js
 AR.js is a lightweight library for Augmented Reality on the Web, coming with features like Image Tracking, Location based AR and Marker tracking.
@@ -39,14 +39,14 @@ It comes in two versions: [the Web version](https://carnaux.github.io/NFT-Marker
 If you want to understand the creation of markers in more depth, check out the NFT Marker Creator [wiki](https://github.com/Carnaux/NFT-Marker-Creator/wiki/Creating-good-markers). It explains also why certain images work way better than others. An important factor is the DPI of the image: a good dpi (300 or more) will give a very good stabilization, while low DPI (like 72) will require the user to stay very still and close to the image, otherwise tracking will lag.
 
 ### Create Image Descriptors:
-<img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/photo1.jpg" width="150">
+<img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/photo.jpg" width="150">
 <img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/photo2.jpg" width="150">
 
-We create descriptor with this picture (photo1.jpg or photo2.jpg) by uploading to NFT creator web version above then return 3 files to use: .fset, .fset3, .iset.
+We create descriptor with this picture (photo.jpg or photo2.jpg) by uploading to NFT creator web version above then return 3 files to use: .fset, .fset3, .iset.
 
 Each of them will have the same prefix before the file extension. That one will be the Image Descriptor name that you will use on the AR.js web app.
 
-For example: I created descriptor with photo2.jpg (not photo1.jpg), with files photo2.fset, photo2.fset3 and photo2.iset, your Image Descriptors name will be photo2.
+For example: I created descriptor with photo.jpg (not photo2.jpg), with files photo.fset, photo.fset3 and photo.iset, your Image Descriptors name will be photo.
 
 ### Create Object
 You can download and use 3D models or object from anywhere or create your own with Blender. For this repo, I created my own model based on [Kumparan](https://kumparan.com) Logo with MagicaVoxel.
@@ -69,7 +69,7 @@ You can watch tutorial on my youtube channel here for DTS Kominfo Logo:
     <!-- we use cors proxy to avoid cross-origin problems -->
     <a-nft
       type="nft"
-      url="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/MaksumRifai/kumparan/master/photo2"
+      url="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/MaksumRifai/kumparan/master/photo"
       smooth="true"
       smoothCount="10"
       smoothTolerance=".01"
@@ -105,7 +105,6 @@ Click image below with Chrome Mobile Browser or AR/VR/XR Devices to Try it:
 <a href="https://digitaltalent.netlify.app"><img src="https://raw.githubusercontent.com/MaksumRifai/digitaltalent/master/ss-dts-1.jpg" width="200"></a>
 
 ## How to use this template
-
 ### Clonning
 Run the following command to clone this template to your local directory:
 ```
