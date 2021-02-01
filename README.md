@@ -86,11 +86,15 @@ You can refer to [A-Frame docs](https://aframe.io/docs/1.0.0/introduction/) to k
 
 The only custom component here is the a-nft, the Image Tracking HTML anchor, you may read my other projects for references:
 
-[https://github.com/MaksumRifai/voxelar](https://github.com/MaksumRifai/voxelar) | [https://github.com/MaksumRifai/360vr](https://github.com/MaksumRifai/360vr) | [https://github.com/MaksumRifai/digitaltalent](https://github.com/MaksumRifai/digitaltalent)
+- [https://github.com/MaksumRifai/voxelar](https://github.com/MaksumRifai/voxelar)
+- [https://github.com/MaksumRifai/360vr](https://github.com/MaksumRifai/360vr)
+- [https://github.com/MaksumRifai/digitaltalent](https://github.com/MaksumRifai/digitaltalent)
 
-<img src="https://raw.githubusercontent.com/MaksumRifai/voxelar/master/preview.jpg" width="200">
-<img src="https://raw.githubusercontent.com/MaksumRifai/360vr/master/preview-360-2.png" width="200">
-<img src="https://raw.githubusercontent.com/MaksumRifai/digitaltalent/master/ss-dts-1.jpg" width="200">
+Click image below with Chrome Mobile Browser or AR/VR/XR Devices to Try it:
+
+<a href="https://maksumrifai.github.io/voxelar"><img src="https://raw.githubusercontent.com/MaksumRifai/voxelar/master/preview.jpg" width="200"></a>
+<a href="https://maksumrifai.github.io/360vr"><img src="https://raw.githubusercontent.com/MaksumRifai/360vr/master/preview-360-2.png" width="200"></a>
+<a href="https://digitaltalent.netlify.app"><img src="https://raw.githubusercontent.com/MaksumRifai/digitaltalent/master/ss-dts-1.jpg" width="200"></a>
 
 ## How to use this template
 ### Clonning
@@ -141,7 +145,7 @@ All Assets from Kumparan (U Logo/Icon/Graphic) and company/entity names are trad
 
 (kumparan-logo.svg) I used for extract information (Hex Color) for create object with magicavoxel, and stored on palete (kumparan.png). Refer to [kumparan.com](https://kumparan.com) for more Information.
 
-<img src="https://raw.githubusercontent.com/MaksumRifai/voxelar/master/kumparan-logo.svg" width="200">
+<img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/kumparan-logo.svg" width="200">
 
 This Logo may copyrighted, but object assets (mtl,obj,png) is created and owned by Maksum Rifai with MagicaVoxel for educational and non-commercial purpose, please use it wisely.
 
