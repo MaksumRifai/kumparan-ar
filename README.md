@@ -76,12 +76,12 @@ You can watch tutorial on my youtube channel here for DTS Kominfo Logo:
       smoothThreshold="5"
     >
     <!-- as a child of the a-nft entity, you can define the content to show. here's a OBJ model entity -->
-    <a-entity rotation="-135 -90 90" scale="5 5 5" position="0 0 0" obj-model="obj: #tree-obj; mtl: #tree-mtl"></a-entity>
+    <a-entity rotation="-135 -90 90" scale="5 5 5" position="0 0 0" obj-model="obj: #kumparan-u-obj; mtl: #kumparan-u-mtl"></a-entity>
     </a-nft>
     <!--Load assets to use by nft entity above-->
        <a-assets>
-        <a-asset-item id="tree-obj" src="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/MaksumRifai/kumparan/master/kumparan.obj"></a-asset-item>
-        <a-asset-item id="tree-mtl" src="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/MaksumRifai/kumparan/master/kumparan.mtl"></a-asset-item>
+        <a-asset-item id="kumparan-u-obj" src="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/MaksumRifai/kumparan/master/kumparan.obj"></a-asset-item>
+        <a-asset-item id="kumparan-u-mtl" src="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/MaksumRifai/kumparan/master/kumparan.mtl"></a-asset-item>
        </a-assets>
     <!--End of assets-->
     <!-- static camera that moves according to the device movemenents -->
