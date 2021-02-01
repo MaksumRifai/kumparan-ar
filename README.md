@@ -36,14 +36,19 @@ It comes in two versions: [the Web version](https://carnaux.github.io/NFT-Marker
 If you want to understand the creation of markers in more depth, check out the NFT Marker Creator [wiki](https://github.com/Carnaux/NFT-Marker-Creator/wiki/Creating-good-markers). It explains also why certain images work way better than others. An important factor is the DPI of the image: a good dpi (300 or more) will give a very good stabilization, while low DPI (like 72) will require the user to stay very still and close to the image, otherwise tracking will lag.
 
 ### Create Image Descriptors:
+<img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/photo1.jpg" width="150">
 <img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/photo2.jpg" width="150">
-We create descriptor with this picture (photo2.jpg) by uploading to NFT creator web version above then return 3 files to use: .fset, .fset3, .iset.
-Each of them will have the same prefix before the file extension. That one will be the Image Descriptor name that you will use on the AR.js web app. For example: with files photo2.fset, photo2.fset3 and photo2.iset, your Image Descriptors name will be photo2.
+
+We create descriptor with this picture (photo1.jpg or photo2.jpg) by uploading to NFT creator web version above then return 3 files to use: .fset, .fset3, .iset.
+
+Each of them will have the same prefix before the file extension. That one will be the Image Descriptor name that you will use on the AR.js web app.
+
+For example: I created descriptor with photo2.jpg (not photo1.jpg), with files photo2.fset, photo2.fset3 and photo2.iset, your Image Descriptors name will be photo2.
 
 ### Create Object
 You can download and use 3D models or object from anywhere or create your own with Blender. For this repo, I created my own model based on [Kumparan](https://kumparan.com) Logo with MagicaVoxel.
 
-<img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/ss-mv.jpg" width="500">
+<img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/ss-mv.jpg" width="600">
 
 You can watch tutorial on my youtube channel here for DTS Kominfo Logo:
 
@@ -84,7 +89,7 @@ You can watch tutorial on my youtube channel here for DTS Kominfo Logo:
 
 You can refer to [A-Frame docs](https://aframe.io/docs/1.0.0/introduction/) to know everything about content and customization. You can add geometries, 3D models, videos, images. And you can customize their position, scale, rotation and so on.
 
-The only custom component here is the a-nft, the Image Tracking HTML anchor, you may read my other projects for references:
+The only custom component here is the a-nft, the Image Tracking HTML anchor, you may see my other projects for references:
 
 - [https://github.com/MaksumRifai/voxelar](https://github.com/MaksumRifai/voxelar)
 - [https://github.com/MaksumRifai/360vr](https://github.com/MaksumRifai/360vr)
@@ -103,17 +108,19 @@ Run the following command to clone this template to your local directory:
 $ git clone https://github.com/MaksumRifai/kumparan.git
 
 ```
-## Download
+### Download
 Use green button above and click "Download Zip" or simply click [here](https://github.com/MaksumRifai/kumparan/archive/master.zip)
+
 ## Customizing
 In case you want to use your own models, simply replace the [.obj .mtl .png](https://en.m.wikipedia.org/wiki/Wavefront_.obj_file) files with yours. Don't forget to export your MagicaVoxel or Blender project with compatible format.
-And edit this repo, you only need to replace URL/File name with yours, and the descripted files (fset, iset, fset3) you created with your own source image. For better and faster development you can use [Spck Code/Git Editor](http://play.google.com/store/apps/details?id=io.spck) for Android, I mainly use this Way.
+Then edit this repo, you only need to replace URL/File name with yours, and the descripted files (fset, iset, fset3) you created with your own source image. For better and faster development you can use [Spck Code/Git Editor](http://play.google.com/store/apps/details?id=io.spck) for Android, I mainly use this Way.
 
 <a href="https://github.com/MaksumRifai/360vr/blob/master/360vr.gif"><img src="https://raw.githubusercontent.com/MaksumRifai/360vr/master/360vr.gif" width="450"></a>
 <br/><br/>
+
 # References & Resources
 
-# A-Frame Boilerplate
+## A-Frame Boilerplate
 
 Web framework for building virtual reality experiences.
 
@@ -123,7 +130,7 @@ Alternatively, check out the [A-Frame Starter on
 glitch.com](https://glitch.com/~aframe) for a more interactive way on getting
 started.
 
-# MagicaVoxel @ephtracy
+## MagicaVoxel @ephtracy
 
 A free lightweight GPU-based voxel art editor and interactive path tracing renderer.
 
@@ -141,7 +148,7 @@ A free lightweight GPU-based voxel art editor and interactive path tracing rende
 - [Building with MagicaVoxel and export to A-Frame (WebVR framework)](https://aframe.io/docs/0.3.0/guides/building-with-magicavoxel.html)
 - [Script for animating MagicaVoxel rendering](http://drinkdecaf.com/magicavoxel_animate)
 
-## Copyright Notice & Disclaimer
+# Copyright Notice & Disclaimer
 
 All Assets from Kumparan (U Logo/Icon/Graphic) and company/entity names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
 
@@ -154,4 +161,4 @@ This Logo may copyrighted, but object assets (mtl,obj,png) is created and owned 
 ### Support Me
 <a href="https://www.paypal.me/maksumrifai"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRU16oC9ndfwmD5a14Df0X7B96ummOHmQGsg&usqp=CAU" width="200"></a> <a href="https://invoice.xendit.co/donation/Dukungan"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROR5VQJr0XTxLh-kmhGyyyQA0i8ISLTxQRcg&usqp=CAU" width="200"></a>
 
-<a href="https://github.com/desainerhub"><img src="https://raw.githubusercontent.com/MaksumRifai/360vr/master/learn.png" width="450"></a>
+<a href="https://github.com/desainerhub"><img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/learn.png" width="500"></a>
