@@ -5,7 +5,11 @@ For this Project, I used AR.js and Aframe.js library, Image Descriptor, and Voxe
 
 https://github.com/MaksumRifai/kumparan (Repo) | https://maksumrifai.github.io/kumparan (Live)
 
-Open Live Demo with Chrome Mobile Browser or AR/VR/XR Devices, When that cam ready, Scan Kumparan Sticker/Umbrella or Logo from kumparan.com Or you can use assets logo from disclaimer below. Note for Desktop Browser you need latest Chrome or Edge that suported and enabled for WebVR Experiences, and also good desktop camera (Webcam).
+Open Live Demo with Chrome Mobile Browser or AR/VR/XR Devices, When that cam ready, Scan Kumparan Sticker/Umbrella or Logo from kumparan.com Or you can use assets logo from disclaimer below.
+
+Note for Desktop Browser you need latest Chrome or Edge that suported and enabled for WebVR Experiences, and also good desktop camera (Webcam), Recommended use Mobile Browser.
+
+#Libraries
 
 ## AR.js
 AR.js is a lightweight library for Augmented Reality on the Web, coming with features like Image Tracking, Location based AR and Marker tracking.
@@ -112,7 +116,10 @@ Use green button above and click "Download Zip" or simply click [here](https://g
 
 ## Customizing
 In case you want to use your own models, simply replace the [.obj .mtl .png](https://en.m.wikipedia.org/wiki/Wavefront_.obj_file) files with yours. Don't forget to export your MagicaVoxel or Blender project with compatible format.
-Then edit this repo, you only need to replace URL/File name with yours, and the descripted files (fset, iset, fset3) you created with your own source image. For better and faster development you can use [Spck Code/Git Editor](http://play.google.com/store/apps/details?id=io.spck) for Android, I mainly use this Way.
+
+Then edit this repo, you only need to replace URL/File name with yours, and the descripted files (fset, iset, fset3) you created with your own source image.
+
+For better and faster development you can use [Spck Code/Git Editor](http://play.google.com/store/apps/details?id=io.spck) for Android, I mainly use this Way.
 
 <a href="https://github.com/MaksumRifai/360vr/blob/master/360vr.gif"><img src="https://raw.githubusercontent.com/MaksumRifai/360vr/master/360vr.gif" width="450"></a>
 <br/><br/>
@@ -151,7 +158,7 @@ A free lightweight GPU-based voxel art editor and interactive path tracing rende
 
 All Assets from Kumparan (U Logo/Icon/Graphic) and company/entity names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
 
-(kumparan-logo.svg) I used for extract information (Hex Color) for create object with magicavoxel, and stored on palete (kumparan.png). Refer to [kumparan.com](https://kumparan.com) for more Information.
+(kumparan-logo.svg) I used for gather colors information (Hex Color) for create object with magicavoxel, and stored on palete (kumparan.png). Refer to [kumparan.com](https://kumparan.com) for more Information about their's Brand..
 
 <img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/kumparan-logo.svg" width="200">
 
@@ -161,6 +168,6 @@ This Logo may copyrighted, but object assets (mtl,obj,png) is created and owned 
 <a href="https://www.paypal.me/maksumrifai"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRU16oC9ndfwmD5a14Df0X7B96ummOHmQGsg&usqp=CAU" width="200"></a> <a href="https://invoice.xendit.co/donation/Dukungan"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROR5VQJr0XTxLh-kmhGyyyQA0i8ISLTxQRcg&usqp=CAU" width="200"></a>
 
 <a href="https://github.com/desainerhub"><img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/learn.png" width="350"></a>
-<a href="https://github.com/desainerhub"><img src="https://raw.githubusercontent.com/Bekasi-Dev-Community/bekasidev/master/assets/img/brand/bekasidev-banner.png" width="350"></a>
+<a href="https://github.com/Bekasi-Dev-Community"><img src="https://raw.githubusercontent.com/Bekasi-Dev-Community/bekasidev/master/assets/img/brand/bekasidev-stiker.png" width="350"></a>
 
 
