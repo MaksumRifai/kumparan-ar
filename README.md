@@ -39,16 +39,17 @@ It comes in two versions: [the Web version](https://carnaux.github.io/NFT-Marker
 If you want to understand the creation of markers in more depth, check out the NFT Marker Creator [wiki](https://github.com/Carnaux/NFT-Marker-Creator/wiki/Creating-good-markers). It explains also why certain images work way better than others. An important factor is the DPI of the image: a good dpi (300 or more) will give a very good stabilization, while low DPI (like 72) will require the user to stay very still and close to the image, otherwise tracking will lag.
 
 ### Create Image Descriptors:
-<img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/photo.jpg" width="150">
-<img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/photo2.jpg" width="150">
 
-We create descriptor with this picture (photo.jpg or photo2.jpg) by uploading to NFT creator web version above then return 3 files to use: .fset, .fset3, .iset.
+<img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/payung.jpg" width="250">
+
+We create descriptor with this picture (payung.jpg) by uploading to NFT creator web version above then return 3 files to use: .fset, .fset3, .iset.
 
 Each of them will have the same prefix before the file extension. That one will be the Image Descriptor name that you will use on the AR.js web app.
 
-For example: I created descriptor with photo.jpg (not photo2.jpg), with files photo.fset, photo.fset3 and photo.iset, your Image Descriptors name will be "photo".
+For example: I created descriptor with payung.jpg, descripted files is payung.fset, payung.fset3 and payung.iset, your Image Descriptors name will be "payung".
 
 ### Create Object
+
 You can download and use 3D models or object from anywhere or create your own with Blender. For this repo, I created my own model based on [Kumparan](https://kumparan.com) Logo with MagicaVoxel.
 
 <img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/ss-mv.jpg">
@@ -69,7 +70,7 @@ You can watch tutorial on my youtube channel here for DTS Kominfo Logo:
     <!-- we use cors proxy to avoid cross-origin problems -->
     <a-nft
       type="nft"
-      url="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/MaksumRifai/kumparan-ar/master/photo"
+      url="https://arjs-cors-proxy.herokuapp.com/https://raw.githack.com/MaksumRifai/kumparan-ar/master/payung"
       smooth="true"
       smoothCount="10"
       smoothTolerance=".01"
@@ -113,7 +114,7 @@ $ git clone https://github.com/MaksumRifai/kumparan.git
 
 ```
 ### Download
-Use green button above and click "Download Zip" or simply click [here](https://github.com/MaksumRifai/kumparan/archive/master.zip)
+Use green button above and click "Download Zip" or simply click [here](https://github.com/MaksumRifai/kumparan-ar/archive/master.zip)
 
 ## Customizing
 In case you want to use your own models, simply replace the [.obj .mtl .png](https://en.m.wikipedia.org/wiki/Wavefront_.obj_file) files with yours. Don't forget to export your MagicaVoxel or Blender project properly.
@@ -165,7 +166,7 @@ All Assets from Kumparan (U Logo/Icon/Graphic) and company/entity names are trad
 
 <img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/kumparan-logo.svg" width="200">
 
-This Logo may copyrighted, but object assets (mtl,obj,png) is created and owned by Maksum Rifai with MagicaVoxel for educational and non-commercial purpose, please use it wisely.
+This Logo may copyrighted, but object assets (mtl,obj,png) is created and owned by Maksum Rifai with MagicaVoxel for educational and non-commercial purpose, please use it wisely and with your own risk.
 
 ### Support Me
 <a href="https://www.paypal.me/maksumrifai"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRU16oC9ndfwmD5a14Df0X7B96ummOHmQGsg&usqp=CAU" width="200"></a> <a href="https://invoice.xendit.co/donation/Dukungan"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROR5VQJr0XTxLh-kmhGyyyQA0i8ISLTxQRcg&usqp=CAU" width="200"></a>
