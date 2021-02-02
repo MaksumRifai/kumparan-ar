@@ -104,7 +104,9 @@ The only custom component here is the a-nft, the Image Tracking HTML anchor, you
 Use Latest Chrome Mobile Browser, enable VR and AR mode to try.
 
 <a href="https://maksumrifai.github.io/voxelar"><img src="https://raw.githubusercontent.com/MaksumRifai/voxelar/master/voxelar-preview.gif" width="200"></a>
+
 <a href="https://maksumrifai.github.io/360vr"><img src="https://raw.githubusercontent.com/MaksumRifai/360vr/master/360vr-preview.gif" width="200"></a>
+
 <a href="https://digitaltalent.netlify.app"><img src="https://raw.githubusercontent.com/MaksumRifai/digitaltalent/master/dts-preview.gif" width="200"></a>
 
 ## How to use this template
@@ -112,7 +114,7 @@ Use Latest Chrome Mobile Browser, enable VR and AR mode to try.
 ### Clonning
 Run the following command to clone this template to your local directory:
 ```
-$ git clone https://github.com/MaksumRifai/kumparan.git
+$ git clone https://github.com/MaksumRifai/kumparan-ar.git
 
 ```
 ### Download
