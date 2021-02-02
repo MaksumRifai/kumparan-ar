@@ -15,7 +15,7 @@
   <body style="margin : 0px; overflow: hidden;">
   <!-- minimal loader shown until image descriptors are loaded -->
   <div class="arjs-loader">
-    <div>Loading... silahkan pindai payung kumparan saat kamera siap</div>
+    <div>Loading... scan kumparan umbrella when camera ready</div>
   </div>
   <!-- end of loader-->
   <!-- Main Scene -->
@@ -23,7 +23,9 @@
     vr-mode-ui="enabled: false;"
     renderer="logarithmicDepthBuffer: true;"
     embedded
-    arjs="trackingMethod: best; sourceType: webcam;debugUIEnabled: false;"
+    arjs="trackingMethod: best;
+    sourceType: webcam;
+    debugUIEnabled: false;"
   >
     <!-- we use cors proxy to avoid cross-origin problems -->
     <a-nft
@@ -35,7 +37,7 @@
       smoothThreshold="5"
     >
     <!-- as a child of the a-nft entity, you can define the content to show. here's a OBJ model entity -->
-    <a-entity rotation="-135 0 90" scale="3 3 3" position="2 1 -3" obj-model="obj: #kumparan-obj; mtl: #kumparan-mtl"></a-entity>
+    <a-entity rotation="90 -90 90" scale="2 2 2" position="0 200 -200" obj-model="obj: #kumparan-obj; mtl: #kumparan-mtl"></a-entity>
     </a-nft>
     <!--Load assets to use by nft entity above-->
        <a-assets>
