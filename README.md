@@ -57,6 +57,8 @@ You can download and use 3D models or object from anywhere or create your own wi
 You can watch tutorial on my youtube channel here for DTS Kominfo Logo:
 
 - [10 Menit Membuat Logo 3D (Digital Talent Scholarship)](https://www.youtube.com/watch?v=0GfNYFcDjMU&t=6s)
+- [Membuat rumah dengan MagicaVoxel](https://www.youtube.com/watch?v=nbfeWj46R3c)
+- [Tutorial Blender 3D Basic : View, Navigation, Transformation](https://www.youtube.com/watch?v=tEAuDC7SjsQ&t=33s)
 
 ## Render Content to the Scene
 ```
@@ -95,15 +97,15 @@ You can refer to [A-Frame docs](https://aframe.io/docs/1.0.0/introduction/) to k
 
 The only custom component here is the a-nft, the Image Tracking HTML anchor, you may see my other projects for references:
 
-- [https://github.com/MaksumRifai/voxelar](https://github.com/MaksumRifai/voxelar)
-- [https://github.com/MaksumRifai/360vr](https://github.com/MaksumRifai/360vr)
-- [https://github.com/MaksumRifai/digitaltalent](https://github.com/MaksumRifai/digitaltalent)
+- WebAR Image Tracking with Bekasidev Sticker, similar with this project [Repo](https://github.com/MaksumRifai/voxelar) | [Demo](https://maksumrifai.github.io/voxelar))
+- 360° Image VR, Add 3D bus into 360 Degree Image ([Repo](https://github.com/MaksumRifai/360vr) | [Demo](https://maksumrifai.github.io/360vr))
+- Simple Object and Animation VR, Add 3D DTS logo Into Environment ([Repo](https://github.com/MaksumRifai/digitaltalent) | [Demo](https://digitaltalent.netlify.app))
 
-Click image below with Chrome Mobile Browser or AR/VR/XR Devices to Try it:
+Use Latest Chrome Mobile Browser, enable VR and AR mode to try.
 
-<a href="https://maksumrifai.github.io/voxelar"><img src="https://raw.githubusercontent.com/MaksumRifai/voxelar/master/preview.jpg" width="200"></a>
-<a href="https://maksumrifai.github.io/360vr"><img src="https://raw.githubusercontent.com/MaksumRifai/360vr/master/preview-360-2.png" width="200"></a>
-<a href="https://digitaltalent.netlify.app"><img src="https://raw.githubusercontent.com/MaksumRifai/digitaltalent/master/ss-dts-1.jpg" width="200"></a>
+<a href="https://maksumrifai.github.io/voxelar"><img src="https://raw.githubusercontent.com/MaksumRifai/voxelar/master/voxelar-preview.gif" width="200"></a>
+<a href="https://maksumrifai.github.io/360vr"><img src="https://raw.githubusercontent.com/MaksumRifai/360vr/master/360vr-preview.gif" width="200"></a>
+<a href="https://digitaltalent.netlify.app"><img src=https://github.com/MaksumRifai/digitaltalent/blob/master/dts-preview.gif" width="200"></a>
 
 ## How to use this template
 
@@ -173,5 +175,3 @@ This Logo may copyrighted, but object assets (mtl,obj,png) is created and owned 
 
 <a href="https://github.com/desainerhub"><img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/learn.png" width="200"></a>
 <a href="https://github.com/Bekasi-Dev-Community"><img src="https://raw.githubusercontent.com/Bekasi-Dev-Community/bekasidev/master/assets/img/brand/bekasidev-stiker.png" width="200"></a>
-
-
