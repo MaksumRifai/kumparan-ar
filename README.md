@@ -3,7 +3,7 @@
 
 For this Project, I used AR.js and Aframe.js library, Image Descriptor, and MagicaVoxel.
 
-https://github.com/MaksumRifai/kumparan (Repo) | https://maksumrifai.github.io/kumparan (Live)
+https://github.com/MaksumRifai/kumparan-ar (Repo) | https://maksumrifai.github.io/kumparan-ar (Live)
 
 Open Live Demo with Chrome Mobile Browser or AR/VR/XR Devices, When cam ready, Scan/Hover Kumparan Sticker/Umbrella (Real things) or Logo from kumparan.com, you can also use assets logo from disclaimer and image/photo from descriptors section below.
 
@@ -79,7 +79,7 @@ You can watch tutorial on my youtube channel here for DTS Kominfo Logo:
       smoothThreshold="5"
     >
     <!-- as a child of the a-nft entity, you can define the content to show. here's a OBJ model entity -->
-    <a-entity rotation="-135 -90 90" scale="5 5 5" position="0 0 0" obj-model="obj: #kumparan-obj; mtl: #kumparan-mtl"></a-entity>
+    <a-entity rotation="90 -90 90" scale="2 2 2" position="0 200 -200" obj-model="obj: #kumparan-obj; mtl: #kumparan-mtl"></a-entity>
     </a-nft>
     <!--Load assets to use by nft entity above-->
        <a-assets>
@@ -105,7 +105,7 @@ Use Latest Chrome Mobile Browser, enable VR and AR mode to try.
 
 <a href="https://maksumrifai.github.io/voxelar"><img src="https://raw.githubusercontent.com/MaksumRifai/voxelar/master/voxelar-preview.gif" width="200"></a>
 <a href="https://maksumrifai.github.io/360vr"><img src="https://raw.githubusercontent.com/MaksumRifai/360vr/master/360vr-preview.gif" width="200"></a>
-<a href="https://digitaltalent.netlify.app"><img src=https://github.com/MaksumRifai/digitaltalent/blob/master/dts-preview.gif" width="200"></a>
+<a href="https://digitaltalent.netlify.app"><img src="https://raw.githubusercontent/MaksumRifai/digitaltalent//master/dts-preview.gif" width="200"></a>
 
 ## How to use this template
 
