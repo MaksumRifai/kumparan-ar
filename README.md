@@ -105,7 +105,7 @@ Use Latest Chrome Mobile Browser, enable VR and AR mode to try.
 
 <a href="https://maksumrifai.github.io/voxelar"><img src="https://raw.githubusercontent.com/MaksumRifai/voxelar/master/voxelar-preview.gif" width="200"></a>
 <a href="https://maksumrifai.github.io/360vr"><img src="https://raw.githubusercontent.com/MaksumRifai/360vr/master/360vr-preview.gif" width="200"></a>
-<a href="https://digitaltalent.netlify.app"><img src="https://raw.githubusercontent/MaksumRifai/digitaltalent/master/dts-preview.gif" width="200"></a>
+<a href="https://digitaltalent.netlify.app"><img src="https://raw.githubusercontent.com/MaksumRifai/digitaltalent/master/dts-preview.gif" width="200"></a>
 
 ## How to use this template
 
@@ -164,14 +164,14 @@ A free lightweight GPU-based voxel art editor and interactive path tracing rende
 
 All Assets from Kumparan (U Logo/Icon/Graphic) and company/entity names are trademarks™ or registered® trademarks of their respective holders. Use of them does not imply any affiliation with or endorsement by them.
 
-(kumparan-logo.svg) I used for gather colors information (Hex Color) for create object with magicavoxel, and stored on palete (kumparan.png). Refer to [kumparan.com](https://kumparan.com) for more Information about their's Brand.
+(kumparan-logo.svg) I used for gather colors information (Hex Color) for create object with magicavoxel, and stored on palette (kumparan.png). Refer to [kumparan.com](https://kumparan.com) for more Information about their's Brand.
 
 <img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/kumparan-logo.svg" width="200">
 
-This Logo may copyrighted, but object assets (mtl,obj,png) is created and owned by Maksum Rifai with MagicaVoxel for educational and non-commercial purpose, please use it wisely and with your own risk.
+This Logo may copyrighted, but object assets (mtl,obj,png) for 3D Object was originally created and owned by Maksum Rifai with MagicaVoxel for educational and non-commercial purpose, please use it wisely and with your own risks.
 
 ### Support Me
-<a href="https://www.paypal.me/maksumrifai"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRU16oC9ndfwmD5a14Df0X7B96ummOHmQGsg&usqp=CAU" width="200"></a> <a href="https://invoice.xendit.co/donation/Dukungan"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROR5VQJr0XTxLh-kmhGyyyQA0i8ISLTxQRcg&usqp=CAU" width="200"></a>
+<a href="https://www.paypal.me/maksumrifai"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSRU16oC9ndfwmD5a14Df0X7B96ummOHmQGsg&tusqp=CAU" width="200"></a> <a href="https://invoice.xendit.co/donation/Dukungan"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcROR5VQJr0XTxLh-kmhGyyyQA0i8ISLTxQRcg&usqp=CAU" width="200"></a>
 
 <a href="https://github.com/desainerhub"><img src="https://raw.githubusercontent.com/MaksumRifai/kumparan/master/learn.png" width="200"></a>
 <a href="https://github.com/Bekasi-Dev-Community"><img src="https://raw.githubusercontent.com/Bekasi-Dev-Community/bekasidev/master/assets/img/brand/bekasidev-stiker.png" width="200"></a>
