@@ -5,7 +5,7 @@ For this Project, I used AR.js and Aframe.js library, Image Descriptor, and Magi
 
 https://github.com/MaksumRifai/kumparan-ar (Repo) | https://maksumrifai.github.io/kumparan-ar (Live)
 
-Open Live Demo with Chrome Mobile Browser or AR/VR/XR Devices, When cam ready, Scan/Hover Kumparan Sticker/Umbrella (Real things) or Logo from kumparan.com, you can also use assets logo from disclaimer and image/photo from descriptors section below.
+Open Live Demo with Chrome Mobile Browser or AR/VR/XR Devices, When cam ready, Scan/Hover Kumparan Sticker/Umbrella (Real things) or Logo from kumparan.com, you can also use assets logo from disclaimer and image (payung.jpg) from descriptors section below.
 
 Note for Desktop Browser you need latest Chrome or Edge that suported and enabled for WebVR Experiences, and also good desktop camera (Webcam), Recommended use Mobile Browser for Best Experience.
 
@@ -28,7 +28,7 @@ Import Aframe.js:
 ```
 <script src="https://cdn.jsdelivr.net/gh/aframevr/aframe@1c2407b26c61958baa93967b5412487cd94b290b/dist/aframe-master.min.js"></script>
 ```
-For this expample, we use Image Tracking Type of AR.js with Aframe.js.
+For this example, we use Image Tracking Type of AR.js with Aframe.js.
 [Further Reading](https://ar-js-org.github.io/AR.js-Docs/) for another types from AR.js official docs.
 
 ## Image Tracking
@@ -105,7 +105,7 @@ Use Latest Chrome Mobile Browser, enable VR and AR mode to try.
 
 <a href="https://maksumrifai.github.io/voxelar"><img src="https://raw.githubusercontent.com/MaksumRifai/voxelar/master/voxelar-preview.gif" width="200"></a>
 <a href="https://maksumrifai.github.io/360vr"><img src="https://raw.githubusercontent.com/MaksumRifai/360vr/master/360vr-preview.gif" width="200"></a>
-<a href="https://digitaltalent.netlify.app"><img src="https://raw.githubusercontent/MaksumRifai/digitaltalent//master/dts-preview.gif" width="200"></a>
+<a href="https://digitaltalent.netlify.app"><img src="https://raw.githubusercontent/MaksumRifai/digitaltalent/master/dts-preview.gif" width="200"></a>
 
 ## How to use this template
 
